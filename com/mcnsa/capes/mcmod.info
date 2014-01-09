@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mod_MCNSACapes",
+  "name": "MCNSA Capes",
+  "description": "Gives players custom capes!",
+  "version": "2.0b",
+  "mcversion": "",
+  "logoFile": "/com/mcnsa/capes/gfx/logo.png",
+  "url": "http://www.mcnsa.com/",
+  "updateUrl": "",
+  "authors": ["FuzzyWuzzie"],
+  "credits": "Made by FuzzyWuzzie for the fine folks at s.mcnsa.com.",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mod_WorldEditUI",
+  "name": "WorldEditUI",
+  "description": "Simple replacement for WorldEditCUI that takes forever to update",
+  "version": "1.0b",
+  "mcversion": "",
+  "url": "http://www.mcnsa.com/",
+  "updateUrl": "",
+  "authors": ["FuzzyWuzzie"],
+  "credits": "Made by FuzzyWuzzie for the fine folks at s.mcnsa.com.",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mod_UtilityBelt",
+  "name": "Utility Belt",
+  "description": "Macro mod to enable use of circular quick-select style menus in Minecraft",
+  "version": "2.0b",
+  "mcversion": "",
+  "logoFile": "/com/mcnsa/utilitybelt/gfx/logo.png",
+  "url": "http://www.mcnsa.com/",
+  "updateUrl": "",
+  "authors": ["FuzzyWuzzie"],
+  "credits": "Made by FuzzyWuzzie for the fine folks at s.mcnsa.com",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

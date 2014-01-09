@@ -1,0 +1,17 @@
+[
+{
+  "modid": "mod_ChatBubbles",
+  "name": "Chat Bubbles",
+  "description": "Mod to enable in-game chat boxes over people's heads as they talk. Also makes player names always visible, gives player names rank colours, and adds a distance metric to the name.\nBased off of the VoxelPlayer (VoxelChat) mod, originally authored by xTiming. More information about VoxelChat may be found at http://www.voxelwiki.com/minecraft/VoxelPlayer.\nSpecial thanks to Greypo for posing for pictures and for everyone who helped me test [for science]!",
+  "version": "1.0b",
+  "mcversion": "",
+  "logoFile": "/com/mcnsa/chatbubbles/gfx/logo.png",
+  "url": "http://www.mcnsa.com/",
+  "updateUrl": "",
+  "authors": ["FuzzyWuzzie"],
+  "credits": "Made by FuzzyWuzzie for the fine folks at s.mcnsa.com.",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
